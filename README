@@ -1,0 +1,4 @@
+pyNML
+=====
+
+A tiny wrapper around rdflib to aid in the generation of topology description in NML.
